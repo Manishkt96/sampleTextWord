@@ -3,3 +3,4 @@ env/
 
 # Ignore .env file
 .myenv
+.env
